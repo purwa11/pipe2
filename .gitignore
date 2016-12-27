@@ -1,7 +1,6 @@
-.DS_Store
-.classpath
 .project
+.classpath
 .settings
+.springBeans
 target
-.springbeans
-
+manifest.yml
